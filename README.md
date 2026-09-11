@@ -1,4 +1,4 @@
-# 🛡️ AI-Powered Cyber Threat Intelligence & SOC Monitoring Platform
+# 🛡️ AI-Powered Cyber Threat Intelligence & SOC Platform
 
 An AI-driven Cyber Security Operations Center (SOC) dashboard designed to detect, analyze, and monitor cyber threats using Machine Learning, Threat Intelligence Feeds, and Interactive Security Analytics.
 
